@@ -1,18 +1,20 @@
-# ¡Hola a todos, soy Juan Carlos Álvarez!
+# 👨‍💻¡Hola a todos, soy Juan Carlos Álvarez!
 
-![Profile views](https://komarev.com/ghpvc/?username=alseloes&color=blue&style=plastic)
+Soy **Full-Stack Developer**, cuento con certificación como **Professional Developer (From MercadoLibre & Globant, by Digital House - 2024)**. Tengo formación en **Ingeniería de Procesos (Universidad EAFIT)**, lo que me brinda sólidos fundamentos en matemáticas, pensamiento sistémico e investigación aplicada.
 
-## ¿Quién soy?
-Soy **Full-stack Developer**, cuento con certificación como **Professional Developer (From MercadoLibre & Globant, by Digital House - 2024)**. Cuento con bases en **Ingeniería de Procesos (Universidad EAFIT)**, lo cual me aporta fundamentos sólidos en matemáticas, pensamiento sistémico e investigación aplicada. Me caracterizo por una comunicación asertiva, resiliencia, creatividad e innovación, además mantengo una actitud inquieto y comprometida con mi crecimiento personal y en permanente aprendizaje.
+MMe caracterizo por una comunicación asertiva, resiliencia, creatividad e innovación. Además, mantengo una actitud inquieta y comprometida con mi crecimiento personal y el aprendizaje continuo.
 
-En mi última experiencia laboral me desempeñé como **Desarrollador** para Distribuidora PQ S.A.S. (Grupo Megatoys), donde participé en el **desarrollo full-stack** de una aplicación web para la gestión del Sistema Integrado empleando PHP framework Laminas, JavaScript, HTML, CSS/SCSS, entre otros.
+En mi última experiencia laboral me desempeñé como **Desarrollador** para **Distribuidora PQ S.A.S.** (Grupo Megatoys), donde participé en el desarrollo full-stack de una aplicación web para la gestión del sistema integrado, utilizando PHP con el framework Laminas, JavaScript, HTML, CSS/SCSS, entre otras tecnologías.
 
-Actualmente, **busco oportunidades a nivel laboral y/o proyectos colaborativos** en los que pueda aportar mi talento y capacidades para alcanzar grandes metas. Me encuentro radicado en la ciudad de Medellín (Colombia) y cuento con nacionalidades de Colombia y España, lo cual me da la facilidad de reubicarme.
+Actualmente, **busco oportunidades a nivel laboral y/o proyectos colaborativos** en los que pueda aportar mi talento y capacidades para alcanzar grandes metas. Estoy radicado en **Medellín (Colombia)** y cuento con **doble nacionalidad: colombiana y española**, lo que me brinda facilidad para reubicarme.
 
-A lo largo de mi trayectoria laboral, he demostrado habilidades creativas e innovadoras para afrontar desafíos, optimizar procesos y alcanzar logros específicos en equipos de trabajo.
+A lo largo de mi trayectoria profesional, he demostrado habilidades creativas e innovadoras para afrontar desafíos, optimizar procesos y alcanzar objetivos concretos en equipos de trabajo.
 
-## Conocimientos técnicos e intereses
-Mis conocimientos técnicos y nuevos aprendizajes son diversos, entre ellos están:
+Conoce más sobre mí y mi experiencia accediendo a mi [CV en español](https://1drv.ms/b/s!AjzNnkh88D4ZkeVkm7jS0YNKq0QTpg?e=LTbLmV).
+
+## 📚 Tecnologías, herramientas e intereses
+
+Mis conocimientos técnicos, las tecnologías que estoy aprendiendo y aquellas que me interesan son diversos. Entre ellos se encuentran:
 
 | Categoría técnica            | Conocimiento y/o experiencia   | En aprendizaje   | Me interesa aprender  |
 |-----------------------------|-------------------------------|-------------------|-----------------------------|
@@ -24,15 +26,22 @@ Mis conocimientos técnicos y nuevos aprendizajes son diversos, entre ellos est�
 | Contenedores   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  |    |   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  |
 | Virtualización   | ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=flat&logo=virtualbox&logoColor=white)<br> ![VMWare](https://img.shields.io/badge/VMWare-607078?style=flat&logo=vmware&logoColor=white)   |  |   ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) |
 
-## Proyectos
+## 🎓 Educación y certificaciones
 
-En este espacio relaciono los proyectos en los que he colaborado y/o en lo que estoy trabajando:
-- **[Back-end para gestión de consultorio:](https://github.com/alseloes/BackEndClinicaOdontologica)** Back-end de aplicación Web gestionar citas y pacientes de un consultorio odontológico.
+* [Professiona Developer](https://1drv.ms/b/s!AjzNnkh88D4Zka5vkaxI87w81PkzjA?e=tSXyaX) - From Mercado Libre & Globant, by Digital House (2024)
+* [Web Development Fundamentals Program](https://dashboard.webdevopen.com/c/fundamentals/) - Web Dev Open (En desarrollo)
+* [Full Stack Open](https://fullstackopen.com/es/) - University of Helsinki (En desarrollo)
 
-## Contáctame
+## 💼 Proyectos
+
+Aquí encontrarás los proyectos en los que he participado y aquellos en los que estoy trabajando actualmente:
+
+- [Back-end para gestión de consultorio:](https://github.com/alseloes/BackEndClinicaOdontologica) Back-End de aplicación Web para gestión de citas y pacientes de un consultorio odontológico.
+
+## 📬 Conectémonos
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alseloes@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white)](https://www.linkedin.com/in/juancarlosalvarezs/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/alseloes/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573013608430)
 
-## GitHub Analytics
+## 📊 GitHub Analytics | ![Profile views](https://komarev.com/ghpvc/?username=alseloes&color=blue&style=plastic)
 
 ![Juan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=alseloes&show_icons=true&include_all_commits=true&hide_title=false&count_private=true&theme=github_dark) [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alseloes&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
