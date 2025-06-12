@@ -41,12 +41,13 @@ My technical knowledge, the technologies I'm learning, and the ones I'm interest
 * [Professiona Developer](https://1drv.ms/b/s!AjzNnkh88D4Zka5vkaxI87w81PkzjA?e=tSXyaX) - From Mercado Libre & Globant, by Digital House (2024)
 * [Web Development Fundamentals Program](https://dashboard.webdevopen.com/c/fundamentals/) - Web Dev Open _(in progress)_
 * [Full Stack Open](https://fullstackopen.com/es/) - University of Helsinki _(in progress)_
+* [GitHub Actions Bootcamp](https://github.com/features/actions) - CodigoFacilito _(in progress)_
 
 ## 💼 Projects
 
 Here you'll find the projects I've participated in and the ones I'm currently working on:
 
-- [Clinic Management Backend:](https://github.com/alseloes/BackEndClinicaOdontologica) Backend of a web application for managing appointments and patients in a dental clinic.
+* [Clinic Management Backend:](https://github.com/alseloes/BackEndClinicaOdontologica) Backend of a web application for managing appointments and patients in a dental clinic.
 <!-- - **[Algunos retos de programación que he resuelto:](Pendiente)** Retos de programación de diferente nivel de complejidad que he resuelto, rover renombrado -->
 <!-- - **[FilOscuro:](Pendiente)** . -->
 
